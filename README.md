@@ -1,2 +1,2 @@
 # earthviz
-visualize the earth
+utilities for earth data
