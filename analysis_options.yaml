@@ -1,0 +1,65 @@
+analyzer:
+  strong-mode:
+    implicit-casts: false
+  errors:
+    todo: ignore
+    invalid_assignment: warning
+    missing_return: error
+    dead_code: info
+  exclude:
+    - android/**
+    - assets/**
+    - build/**
+    - flutter/**
+    - gen/**
+    - ios/**
+    - res/**
+    - lib/generated/**
+
+linter:
+  rules:
+    - always_declare_return_types
+    - avoid_empty_else
+    - avoid_init_to_null
+    - avoid_slow_async_io
+    - avoid_return_types_on_setters
+    - avoid_void_async
+    - await_only_futures
+    - camel_case_types
+    - cancel_subscriptions
+    - close_sinks
+    - control_flow_in_finally
+    - empty_constructor_bodies
+    - empty_statements
+    - hash_and_equals
+    - invariant_booleans
+    - implementation_imports
+    - iterable_contains_unrelated_type
+    - library_names
+    - list_remove_unrelated_type
+    - non_constant_identifier_names
+    - package_api_docs
+    - package_prefixed_library_names
+    - prefer_is_not_empty
+    - prefer_single_quotes
+    - prefer_typing_uninitialized_variables
+    # - public_member_api_docs
+    - slash_for_doc_comments
+    - sort_constructors_first
+    - sort_pub_dependencies
+    - sort_unnamed_constructors_first
+    - test_types_in_equals
+    - throw_in_finally
+    # - type_annotate_public_apis
+    - unnecessary_const
+    - unnecessary_new
+    - unnecessary_null_aware_assignments
+    - unnecessary_null_in_if_null_operators
+    - unnecessary_overrides
+    - unnecessary_parenthesis
+    - unnecessary_statements
+    - unnecessary_this
+    - unrelated_type_equality_checks
+    - use_setters_to_change_properties
+    - use_to_and_as_if_applicable
+    - valid_regexps
