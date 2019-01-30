@@ -80,15 +80,27 @@ fabric.properties
 .DS_Store
 .AppleDouble
 .LSOverride
+*.class
+*.log
+*.swp
+*.moved-aside
+*.pyc
+*sync/
+Icon?
+.tags*
+.DS_Store
+.symlinks/
 
 *.swp
 profile
 
 ## Build generated
 build/
+coverage/
 DerivedData/
 GeneratedPluginRegistrant.h
 GeneratedPluginRegistrant.m
+.generated/
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
@@ -105,8 +117,6 @@ GeneratedPluginRegistrant.m
 Network Trash Folder
 Temporary Items
 .apdisk
-
-.generated/
 
 *.pbxuser
 *.mode1v3
