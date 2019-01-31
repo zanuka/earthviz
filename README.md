@@ -13,8 +13,10 @@
 - [GOOS](http://www.goosocean.org/) - Global Ocean Observing System
 - [NOAA](https://www.ncdc.noaa.gov/) - National Centers for Environmental Information
 
-## weather APIs
+## weather tools / apps / sites
+- [NASA World Weather](https://worldwind.arc.nasa.gov/worldweather/) - broad range of weather and global spatial data viewed in 3D
 
+## weather APIs
 - [Open Weather Map](https://openweathermap.org/) - free and paid access to global weather APIs
 - [NOAA Climate Data API](https://www.programmableweb.com/api/noaa-climate-data-online) - access to accumulated data on climate for locations worldwide 
 - [ClimBiz ADAPT Climate Projection API](https://www.programmableweb.com/api/climbiz-adapt-climate-projection) - view possible future scenarios of climate change for specific countries
@@ -24,5 +26,7 @@
 - [Tomorrow CO2 Signal API](https://www.programmableweb.com/api/tomorrow-co2-signal) - provides carbon footprint detection mechanism enabling smart devices to consume electricity when footprint is at its lowest
 - [Foreca Climate Data API](https://www.programmableweb.com/api/foreca-climate-data) - offers accurate information about daily or monthly average temperatures and precipitation
 - [OpenUV Global UV Index Forecast API](https://www.programmableweb.com/api/openuv-global-uv-index-forecast) - provides Ultraviolet index data in real time
-- [CarbonDoomsDay Web API](https://www.programmableweb.com/api/carbondoomsday-web) - enables anyone to enhance NOAA's C02 data by building charts, sensor networks, and more
+- [CarbonDoomsDay Web API](https://www.programmableweb.com/api/carbondoomsday-web) - enables the enhancement of NOAA's C02 data
+- [Open AQ API](https://www.programmableweb.com/api/open-aq) - data for apps that power air quality measurement tools
+  
   
