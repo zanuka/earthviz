@@ -35,4 +35,5 @@
 - [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
 - [clifro](https://github.com/ropensci/clifro) - download and visualise climate data from CliFlo (NZ)
 - [aospy](https://github.com/spencerahill/aospy) - Python package for automated analysis and management of gridded climate data
+- [rWBclimate](https://github.com/ropensci/rWBclimate) - R interface for the World Bank climate knowledge portal
   
