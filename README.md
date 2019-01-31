@@ -19,3 +19,4 @@
 - [NOAA Climate Data API](https://www.programmableweb.com/api/noaa-climate-data-online) - access to accumulated data on climate for locations worldwide 
 - [ClimBiz ADAPT Climate Projection API](https://www.programmableweb.com/api/climbiz-adapt-climate-projection) - view possible future scenarios of climate change for specific countries
 - [Weatherbit Degree Day API](https://www.programmableweb.com/api/weatherbit-degree-day) - returns energy industry specific weather data from over 38,000 stations
+- [World Air Quality Index API](https://www.programmableweb.com/api/world-air-quality-index) - geo-based queries, retrieving air quality data for cities and regions, and retrieving current weather conditions
