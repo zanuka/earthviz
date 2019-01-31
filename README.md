@@ -34,4 +34,5 @@
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - comprehensive, global, open source database of power plants
 - [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
 - [clifro](https://github.com/ropensci/clifro) - download and visualise climate data from CliFlo (NZ)
+- [aospy](https://github.com/spencerahill/aospy) - Python package for automated analysis and management of gridded climate data
   
