@@ -21,4 +21,6 @@
 - [Weatherbit Degree Day API](https://www.programmableweb.com/api/weatherbit-degree-day) - returns energy industry specific weather data from over 38,000 stations
 - [World Air Quality Index API](https://www.programmableweb.com/api/world-air-quality-index) - geo-based queries, retrieving air quality data for cities and regions, and retrieving current weather conditions
 - [MetGIS Weather Point API](https://www.programmableweb.com/api/metgis-weather-point) - combines exact weather models and terrain data for ultra-precise forecasts
+- [Tomorrow CO2 Signal API](https://www.programmableweb.com/api/tomorrow-co2-signal) - provides carbon footprint detection mechanism enabling smart devices to consume electricity when footprint is at its lowest
+- 
   
