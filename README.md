@@ -12,3 +12,7 @@ visualize earth, weather and climate data (iOS & Android apps)
 - [GOOS](http://www.goosocean.org/) - Global Ocean Observing System
 - [NOAA](https://www.ncdc.noaa.gov/) - National Centers for Environmental Information
 
+## weather APIs
+
+- [Open Weather Map](https://openweathermap.org/) - free and paid access to global weather APIs
+  
