@@ -24,4 +24,5 @@
 - [Tomorrow CO2 Signal API](https://www.programmableweb.com/api/tomorrow-co2-signal) - provides carbon footprint detection mechanism enabling smart devices to consume electricity when footprint is at its lowest
 - [Foreca Climate Data API](https://www.programmableweb.com/api/foreca-climate-data) - offers accurate information about daily or monthly average temperatures and precipitation
 - [OpenUV Global UV Index Forecast API](https://www.programmableweb.com/api/openuv-global-uv-index-forecast) - provides Ultraviolet index data in real time
+- [CarbonDoomsDay Web API](https://www.programmableweb.com/api/carbondoomsday-web) - enables anyone to enhance NOAA's C02 data by building charts, sensor networks, and more
   
