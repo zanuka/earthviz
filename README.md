@@ -32,4 +32,5 @@
 ## languages / tech / open source
 - [NCAR Command Language (NCL)](https://github.com/NCAR/ncl) - scripting language for the analysis and visualization of climate and weather data
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - comprehensive, global, open source database of power plants
+- [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
   
