@@ -1,5 +1,5 @@
 # earthviz
-visualize earth, weather and climate data (iOS & Android apps)
+visualize earth, weather and climate data (iOS & Android)
 
 ## resources : programs : projects
 - [WCRP](https://www.wcrp-climate.org) - World Climate Research Programme
@@ -16,3 +16,5 @@ visualize earth, weather and climate data (iOS & Android apps)
 
 - [Open Weather Map](https://openweathermap.org/) - free and paid access to global weather APIs
 - [NOAA Climate Data API](https://www.programmableweb.com/api/noaa-climate-data-online) - access to accumulated data on climate for locations worldwide 
+- [ClimBiz ADAPT Climate Projection API](https://www.programmableweb.com/api/climbiz-adapt-climate-projection) - view possible future scenarios of climate change for specific countries
+- [Weatherbit Degree Day API](https://www.programmableweb.com/api/weatherbit-degree-day) - returns historical weather data specific to the energy industry from their network of over 38,000 stations
