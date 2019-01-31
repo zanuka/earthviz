@@ -22,5 +22,6 @@
 - [World Air Quality Index API](https://www.programmableweb.com/api/world-air-quality-index) - geo-based queries, retrieving air quality data for cities and regions, and retrieving current weather conditions
 - [MetGIS Weather Point API](https://www.programmableweb.com/api/metgis-weather-point) - combines exact weather models and terrain data for ultra-precise forecasts
 - [Tomorrow CO2 Signal API](https://www.programmableweb.com/api/tomorrow-co2-signal) - provides carbon footprint detection mechanism enabling smart devices to consume electricity when footprint is at its lowest
-- 
+- [Foreca Climate Data API](https://www.programmableweb.com/api/foreca-climate-data) - offers accurate information about daily or monthly average temperatures and precipitation
+- [OpenUV Global UV Index Forecast API](https://www.programmableweb.com/api/openuv-global-uv-index-forecast) - provides Ultraviolet index data in real time
   
