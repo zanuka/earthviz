@@ -15,4 +15,4 @@ visualize earth, weather and climate data (iOS & Android apps)
 ## weather APIs
 
 - [Open Weather Map](https://openweathermap.org/) - free and paid access to global weather APIs
-  
+- [NOAA Climate Data API](https://www.programmableweb.com/api/noaa-climate-data-online) - access to accumulated data on climate for locations worldwide 
