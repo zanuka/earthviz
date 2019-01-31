@@ -29,6 +29,7 @@
 - [CarbonDoomsDay Web API](https://www.programmableweb.com/api/carbondoomsday-web) - enables the enhancement of NOAA's C02 data
 - [Open AQ API](https://www.programmableweb.com/api/open-aq) - data for apps that power air quality measurement tools
   
-## languages / tech
+## languages / tech / open source
 - [NCAR Command Language (NCL)](https://github.com/NCAR/ncl) - scripting language for the analysis and visualization of climate and weather data
+- [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - comprehensive, global, open source database of power plants
   
