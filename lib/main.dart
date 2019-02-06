@@ -12,7 +12,7 @@ class EarthViz extends StatelessWidget {
         appBar: AppBar(
           title: Text('EarthViz'),
         ),
-        body: DataManager(),
+        body: DataManager('Air Temp'),
       ),
     );
   }

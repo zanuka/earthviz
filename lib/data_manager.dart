@@ -3,6 +3,11 @@ import 'package:flutter/material.dart';
 import './data.dart';
 
 class DataManager extends StatefulWidget {
+
+  DataManager(this.initialItem);
+
+  final String initialItem;
+
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
@@ -11,7 +16,13 @@ class DataManager extends StatefulWidget {
 }
 
 class _DataManagerState extends State<DataManager> {
-  List<String> _data = ['Air Temperature'];
+  List<String> _data = [];
+
+  @override
+  void initState() {
+    super.initState();
+    _data.add(widget.initialItem);
+  }
 
   @override
   Widget build(BuildContext context) {
