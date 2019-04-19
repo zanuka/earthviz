@@ -1,6 +1,4 @@
 # earthviz
-- visualize earth, weather and climate data
-- iOS & Android apps in phase 1 of planning & development
 
 ## resources : programs : projects
 - [WCRP](https://www.wcrp-climate.org) - World Climate Research Programme
