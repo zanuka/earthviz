@@ -9,6 +9,11 @@ class EarthViz extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {
+            print('earth viz');
+          },
+        ),
         appBar: AppBar(
           title: Text('EarthViz'),
         ),
