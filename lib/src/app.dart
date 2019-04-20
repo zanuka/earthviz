@@ -1,8 +1,6 @@
 // Import flutter helper library
 import 'package:flutter/material.dart';
 
-import 'package:earthviz/src/services/data_manager.dart';
-
 class App extends StatefulWidget {
   createState() => AppState();
 }
@@ -31,7 +29,6 @@ class AppState extends State<App> {
         appBar: AppBar(
           title: Text('EarthViz'),
         ),
-        // body: DataManager('Air Temp'),
       ),
     );
   }
