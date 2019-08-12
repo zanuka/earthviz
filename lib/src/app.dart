@@ -22,7 +22,7 @@ class AppState extends State<App> {
     http.Response response = await http.get(url);
     if (response.body != null) {
       dynamic data = json.decode(response.body);
-      var imageModel = ImageModel.fromJson(data);
+      // var imageModel = ImageModel.fromJson(data);
       if (data['success'] == 1) {
         return data['result'];
       } else {
